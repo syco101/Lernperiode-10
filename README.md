@@ -8,7 +8,13 @@ Noten in dieser Periode:
 5, 6
 
 
-14.05.25
+02.05.25
+
+Reflexion
+
+Ich musste an einer LB nacharbeiten, weil wir es im Lernatelier fertig machen mussten. Ich hatte dewegen kein Lernatelier an diesem Tag.
+
+09.05.25
 
  
 Reflexion
