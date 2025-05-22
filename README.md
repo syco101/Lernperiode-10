@@ -28,5 +28,21 @@ Ich musste an einer LB nacharbeiten, weil wir es im Lernatelier fertig machen mu
 
 Ich habe Heute an meinem Schachspiel was ich angefangen hatte weiter gecoded. ich bin Heute auch fertig geworden und ich habe zusätzlich noch ein eigenes Git-Repo dazu verfasst. Ich hatte ein paar Probleme wie zb die richtige Bewegung des Bauers aber durch das mehrfache durchgehen meines Codes hatte ich einen dummen Fehler entdeckt und wegen ihm Funktionierte es nicht. Ich habe es dann verbessert und ich konnte mit dem Projekt abschliessen.
 
+## 16.05.25
 
+- [x] Kontaktierfläche machen
+- [x] Darkmode/Lighmode Probleme beheben
+- [x] Design verbessern
+
+## Reflexion
+
+Heute Morgen habe ich an meiner Homepage weiter gearbeitet. Ich bin jetzt schon sehr weit und ich glaube ich kann bald mit ihr abschliessen. Heute habe ich eine Kontaktier Fläche eingebaut und ich musste meinen Code mit EmailJS verknüpfen. Am Anfang war es schwer zu verstehen wie das verknüpfen mit dem Kontaktfeld funktioniert, weil ich so etwas mit EmailJS noch nie gemacht habe. Es funktioniert jetzt aber und es sieht auch sehr gut aus. Ich habe dann noch meinen Darkmode erweitert und einen coolen Umrand Hover Effekt bei Vielen Bereichen hinzugefügt.  In meinem Darkmode habe ich aber noch ein paar Probleme, weil der Effekt denn ich da bei vielen benutze nicht genau mit dem Effekt im Lightmode übereinstimmt, weil ich zuerst den Lightmode designed habe. Das müsste ich noch genauer anpassen.
+
+## 23.05.25
+
+- [ ] Das Kreis Design auf meiner Homepage im Lightmode anpassen
+- [ ] Neue Projekt Ideen suchen evtl ein Musik player
+- [ ] Meine Homepage komplett Responsive machen.
+
+## Reflexion
 
